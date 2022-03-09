@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HOMETASKS\reverse-string\array_int\array_int\bin\Debug\netcoreapp3.1\array_int.exe
+C:\Users\User\Desktop\HOMETASKS\reverse-string\array_int\array_int\bin\Debug\netcoreapp3.1\array_int.deps.json
+C:\Users\User\Desktop\HOMETASKS\reverse-string\array_int\array_int\bin\Debug\netcoreapp3.1\array_int.runtimeconfig.json
+C:\Users\User\Desktop\HOMETASKS\reverse-string\array_int\array_int\bin\Debug\netcoreapp3.1\array_int.runtimeconfig.dev.json
+C:\Users\User\Desktop\HOMETASKS\reverse-string\array_int\array_int\bin\Debug\netcoreapp3.1\array_int.dll
+C:\Users\User\Desktop\HOMETASKS\reverse-string\array_int\array_int\bin\Debug\netcoreapp3.1\array_int.pdb
+C:\Users\User\Desktop\HOMETASKS\reverse-string\array_int\array_int\obj\Debug\netcoreapp3.1\array_int.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HOMETASKS\reverse-string\array_int\array_int\obj\Debug\netcoreapp3.1\array_int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HOMETASKS\reverse-string\array_int\array_int\obj\Debug\netcoreapp3.1\array_int.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HOMETASKS\reverse-string\array_int\array_int\obj\Debug\netcoreapp3.1\array_int.AssemblyInfo.cs
+C:\Users\User\Desktop\HOMETASKS\reverse-string\array_int\array_int\obj\Debug\netcoreapp3.1\array_int.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HOMETASKS\reverse-string\array_int\array_int\obj\Debug\netcoreapp3.1\array_int.dll
+C:\Users\User\Desktop\HOMETASKS\reverse-string\array_int\array_int\obj\Debug\netcoreapp3.1\array_int.pdb
+C:\Users\User\Desktop\HOMETASKS\reverse-string\array_int\array_int\obj\Debug\netcoreapp3.1\array_int.genruntimeconfig.cache

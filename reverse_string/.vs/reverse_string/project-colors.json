@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd917016-287b-45c1-aec1-70859159b6dd": {
+      "ProjectGuid": "dd917016-287b-45c1-aec1-70859159b6dd",
+      "DisplayName": "reverse_string",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
